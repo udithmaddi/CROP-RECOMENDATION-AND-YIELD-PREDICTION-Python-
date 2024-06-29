@@ -1,0 +1,337 @@
+State_Name,District_Name,Crop_Year,Season,Crop,Area,Production
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Arecanut,1254,2000
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Other Kharif pulses,2,1
+Andaman and Nicobar Islands,NICOBARS,2000,Kharif     ,Rice,102,321
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Banana,176,641
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Cashewnut,720,165
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Coconut ,18168,65100000
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Dry ginger,36,100
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Sugarcane,1,2
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Sweet potato,5,15
+Andaman and Nicobar Islands,NICOBARS,2000,Whole Year ,Tapioca,40,169
+Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Arecanut,1254,2061
+Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Other Kharif pulses,2,1
+Andaman and Nicobar Islands,NICOBARS,2001,Kharif     ,Rice,83,300
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Cashewnut,719,192
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Coconut ,18190,64430000
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Dry ginger,46,100
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Sugarcane,1,1
+Andaman and Nicobar Islands,NICOBARS,2001,Whole Year ,Sweet potato,11,33
+Andaman and Nicobar Islands,NICOBARS,2002,Kharif     ,Rice,189.2,510.84
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Arecanut,1258,2083
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Banana,213,1278
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Black pepper,63,13.5
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Cashewnut,719,208
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Coconut ,18240,67490000
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Dry chillies,413,28.8
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Dry ginger,47.3,133
+Andaman and Nicobar Islands,NICOBARS,2002,Whole Year ,Sugarcane,5,40
+Andaman and Nicobar Islands,NICOBARS,2003,Kharif     ,Rice,52,90.17
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Arecanut,1261,1525
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Banana,266,1763
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Black pepper,75.5,15.86
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Cashewnut,717,208.5
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Coconut ,18284.74,68580000
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Dry chillies,60,102
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,Dry ginger,102,326.4
+Andaman and Nicobar Islands,NICOBARS,2003,Whole Year ,other oilseeds,4.2,0.3
+Andaman and Nicobar Islands,NICOBARS,2004,Kharif     ,Rice,52.94,72.57
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Arecanut,1264.7,805.85
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Banana,66.42,404.12
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Black pepper,85,15.86
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Cashewnut,683.5,197.9
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Coconut ,18394.7,52380000
+Andaman and Nicobar Islands,NICOBARS,,Whole Year ,Dry chillies,60,145.2
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,Dry ginger,118,366
+Andaman and Nicobar Islands,NICOBARS,2004,Whole Year ,other oilseeds,1,0.11
+Andaman and Nicobar Islands,NICOBARS,2005,Kharif     ,Rice,2.09,12.06
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Arecanut,795.67,
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Banana,22,582
+Andaman and Nicobar Islands,NICOBARS,2005,Whole Year ,Black pepper,41,0.1
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Arhar/Tur,21400,2600
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Bajra,1400,500
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Castor seed,1000,100
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Cotton(lint),7300,9400
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Dry chillies,3700,7100
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Groundnut,650800,228400
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Horse-gram,3300,1000
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Jowar,10100,10200
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Korra,2200,700
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Maize,2800,4900
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Moong(Green Gram),1300,500
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Other Kharif pulses,800,100
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Ragi,6700,11800
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Rice,35600,75400
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Sugarcane,700,72900
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Sunflower,35900,11100
+Andhra Pradesh,ANANTAPUR,1997,Kharif     ,Tobacco,200,200
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Dry chillies,100,100
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Gram,28000,14800
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Groundnut,20200,21700
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Horse-gram,600,200
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Jowar,18800,9400
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Korra,100,100
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Maize,600,2400
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Ragi,600,1000
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Rice,18000,37300
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Sunflower,30100,11100
+Andhra Pradesh,ANANTAPUR,1997,Rabi       ,Wheat,300,200
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Arhar/Tur,27400,9100
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Bajra,2600,1900
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Castor seed,3200,1000
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Cotton(lint),14000,12900
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Dry chillies,4000,10000
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Groundnut,755200,867800
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Horse-gram,2300,900
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Jowar,3700,5800
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Korra,,3400
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Maize,3300,6700
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Moong(Green Gram),2100,1300
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Other Kharif pulses,2000,300
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Ragi,7000,14900
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Rice,38300,96800
+Andhra Pradesh,ANANTAPUR,1998,Kharif     ,Sunflower,,12200
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Dry chillies,,200
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Gram,26200,25900
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Groundnut,25900,35800
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Horse-gram,700,500
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Jowar,14800,22100
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Maize,300,1600
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Ragi,700,1200
+Andhra Pradesh,ANANTAPUR,1998,Rabi       ,Rice,26600,63900
+Assam,GOALPARA,2007,Rabi       ,Peas & beans (Pulses),210,109
+Assam,GOALPARA,2007,Rabi       ,Rapeseed &Mustard,3625,1359
+Assam,GOALPARA,2007,Rabi       ,Urad,2590,1391
+Assam,GOALPARA,2007,Rabi       ,Wheat,2468,3919
+Assam,GOALPARA,2007,Summer     ,Rice,18100,52019
+Assam,GOALPARA,2007,Whole Year ,Arecanut,3155,3790
+Assam,GOALPARA,2007,Whole Year ,Banana,2235,34727
+Assam,GOALPARA,2007,Whole Year ,Black pepper,30,37
+Assam,GOALPARA,2007,Whole Year ,Coconut ,355,4303000
+Assam,GOALPARA,2007,Whole Year ,Dry chillies,292,203
+Assam,GOALPARA,2007,Whole Year ,Dry ginger,380,2706
+Assam,GOALPARA,2007,Whole Year ,Onion,292,579
+Assam,GOALPARA,2007,Whole Year ,Potato,930,7017
+Assam,GOALPARA,2007,Whole Year ,Sugarcane,192,7310
+Assam,GOALPARA,2007,Whole Year ,Sweet potato,355,1158
+Assam,GOALPARA,2007,Whole Year ,Tapioca,185,828
+Assam,GOALPARA,2007,Whole Year ,Tobacco,20,9
+Assam,GOALPARA,2007,Whole Year ,Turmeric,240,123
+Assam,GOALPARA,2007,Winter     ,Rice,45050,56089
+Assam,GOALPARA,2008,Autumn     ,Rice,15800,20569
+Assam,GOALPARA,2008,Kharif     ,Arhar/Tur,455,379
+Assam,GOALPARA,2008,Kharif     ,Castor seed,25,9
+Assam,GOALPARA,2008,Kharif     ,Cotton(lint),13,5
+Assam,GOALPARA,2008,Kharif     ,Jute,3370,51954
+Assam,GOALPARA,2008,Kharif     ,Maize,130,75
+Assam,GOALPARA,2008,Kharif     ,Mesta,250,1206
+Assam,GOALPARA,2008,Kharif     ,Niger seed,1020,510
+Assam,GOALPARA,2008,Kharif     ,Sesamum,490,183
+Assam,GOALPARA,2008,Kharif     ,Small millets,345,144
+Assam,GOALPARA,2008,Rabi       ,Blackgram,2650,1556
+Assam,GOALPARA,2008,Rabi       ,Gram,125,49
+Assam,GOALPARA,2008,Rabi       ,Linseed,360,211
+Assam,GOALPARA,2008,Rabi       ,Masoor,1155,554
+Assam,GOALPARA,2008,Rabi       ,Moong(Green Gram),225,94
+Assam,GOALPARA,2008,Rabi       ,Peas & beans (Pulses),350,183
+Assam,GOALPARA,2008,Rabi       ,Rapeseed &Mustard,4000,2096
+Assam,GOALPARA,2008,Rabi       ,Urad,2650,1556
+Assam,GOALPARA,2008,Rabi       ,Wheat,,4097
+Assam,GOALPARA,2008,Summer     ,Rice,19500,53742
+Assam,GOALPARA,2008,Whole Year ,Arecanut,3160,4168
+Assam,GOALPARA,2008,Whole Year ,Banana,2240,31360
+Assam,GOALPARA,,Whole Year ,Black pepper,32,73
+Assam,GOALPARA,2008,Whole Year ,Coconut ,330,3177000
+Assam,GOALPARA,2008,Whole Year ,Dry chillies,340,235
+Assam,GOALPARA,2008,Whole Year ,Dry ginger,390,2778
+Assam,GOALPARA,2008,Whole Year ,Onion,300,613
+Assam,GOALPARA,2008,Whole Year ,Potato,970,8159
+Assam,GOALPARA,2008,Whole Year ,Sugarcane,192,7370
+Assam,GOALPARA,2008,Whole Year ,Sweet potato,380,1240
+Assam,GOALPARA,2008,Whole Year ,Tapioca,190,929
+Assam,GOALPARA,2008,Whole Year ,Tobacco,20,11
+Assam,GOALPARA,2008,Whole Year ,Turmeric,265,241
+Assam,GOALPARA,2008,Winter     ,Rice,48010,75333
+Assam,GOALPARA,2009,Autumn     ,Rice,12231,13356
+Assam,GOALPARA,2009,Kharif     ,Arhar/Tur,455,379
+Assam,GOALPARA,2009,Kharif     ,Castor seed,20,7
+Assam,GOALPARA,2009,Kharif     ,Cotton(lint),10,4
+Assam,GOALPARA,2009,Kharif     ,Jute,3200,43040
+Assam,GOALPARA,2009,Kharif     ,Maize,145,84
+Assam,GOALPARA,2009,Kharif     ,Mesta,210,1014
+Assam,GOALPARA,2009,Kharif     ,Niger seed,920,460
+Assam,GOALPARA,2009,Kharif     ,Sesamum,485,182
+Assam,GOALPARA,2009,Kharif     ,Small millets,40,16
+Assam,GOALPARA,2009,Rabi       ,Banana,2800,42092
+Assam,GOALPARA,2009,Rabi       ,Gram,130,55
+Assam,GOALPARA,,Rabi       ,Linseed,360,174
+Assam,GOALPARA,2009,Rabi       ,Masoor,1300,615
+Assam,GOALPARA,2009,Rabi       ,Moong(Green Gram),235,99
+Assam,GOALPARA,2009,Rabi       ,Peas & beans (Pulses),378,197
+Jammu and Kashmir ,RAJAURI,2014,Kharif     ,Bajra,453,304.6
+Jammu and Kashmir ,RAJAURI,2014,Kharif     ,Dry chillies,247,162
+Jammu and Kashmir ,RAJAURI,2014,Kharif     ,Maize,47815,72115
+Jammu and Kashmir ,RAJAURI,2014,Kharif     ,Other Cereals & Millets,3,2
+Jammu and Kashmir ,RAJAURI,2014,Kharif     ,Rice,5035,4059
+Jammu and Kashmir ,RAJAURI,2014,Kharif     ,Urad,111,55.3
+Jammu and Kashmir ,RAMBAN,2007,Kharif     ,Maize,16912,19290
+Jammu and Kashmir ,RAMBAN,2007,Kharif     ,Rice,1261,1187
+Jammu and Kashmir ,RAMBAN,2007,Rabi       ,Barley,1911,613.4
+Jammu and Kashmir ,RAMBAN,2007,Rabi       ,Rapeseed &Mustard,784,359.4
+Jammu and Kashmir ,RAMBAN,2007,Rabi       ,Wheat,4021,5650
+Jammu and Kashmir ,RAMBAN,2008,Rabi       ,Barley,1910,613.1
+Jammu and Kashmir ,RAMBAN,2008,Rabi       ,Rapeseed &Mustard,782,478.6
+Jammu and Kashmir ,RAMBAN,2008,Rabi       ,Wheat,3997,2360
+Jammu and Kashmir ,RAMBAN,2013,Rabi       ,Barley,1897,608.8
+Jammu and Kashmir ,RAMBAN,2013,Rabi       ,Rapeseed &Mustard,2144,1109.9
+Jammu and Kashmir ,RAMBAN,2013,Rabi       ,Wheat,2479,1578
+Jammu and Kashmir ,RAMBAN,2014,Kharif     ,Maize,18022,12941
+Jammu and Kashmir ,RAMBAN,2014,Kharif     ,Rice,1173,546
+Jammu and Kashmir ,REASI,2007,Kharif     ,Bajra,359,215.4
+Jammu and Kashmir ,REASI,2007,Kharif     ,Dry ginger,8,9.2
+Jammu and Kashmir ,REASI,2007,Kharif     ,Maize,23540,42640
+Jammu and Kashmir ,REASI,2007,Kharif     ,Moong(Green Gram),4,2.6
+Jammu and Kashmir ,REASI,2007,Kharif     ,Other Kharif pulses,5,2.6
+Jammu and Kashmir ,REASI,2007,Kharif     ,Rice,1721,2027
+Jammu and Kashmir ,REASI,2007,Kharif     ,Sannhamp,11,11.5
+Jammu and Kashmir ,REASI,2007,Kharif     ,Sesamum,100,50
+Jammu and Kashmir ,REASI,2007,Kharif     ,Urad,,178.7
+Jammu and Kashmir ,REASI,2007,Rabi       ,Barley,392,359.3
+Jammu and Kashmir ,REASI,2007,Rabi       ,Garlic,26,21.9
+Jammu and Kashmir ,REASI,2007,Rabi       ,Masoor,,7
+Jammu and Kashmir ,REASI,2007,Rabi       ,Peas & beans (Pulses),9,6.3
+Jammu and Kashmir ,REASI,2007,Rabi       ,Potato,32,80.4
+Jammu and Kashmir ,REASI,2007,Rabi       ,Rapeseed &Mustard,441,323.6
+Jammu and Kashmir ,REASI,2007,Rabi       ,Wheat,10099,14710
+Jammu and Kashmir ,REASI,2008,Rabi       ,Barley,233,213.6
+Jammu and Kashmir ,REASI,2008,Rabi       ,Garlic,28,23.6
+Jammu and Kashmir ,REASI,2008,Rabi       ,Masoor,1,0.5
+Jammu and Kashmir ,REASI,2008,Rabi       ,Onion,3,7.7
+Jammu and Kashmir ,REASI,2008,Rabi       ,Potato,40,1322.9
+Jammu and Kashmir ,REASI,2008,Rabi       ,Rapeseed &Mustard,,242.8
+Jammu and Kashmir ,REASI,2008,Rabi       ,Wheat,11353,11820
+Jammu and Kashmir ,REASI,2013,Rabi       ,Barley,138,126.8
+Jammu and Kashmir ,REASI,2013,Rabi       ,Garlic,10,8.6
+Jammu and Kashmir ,REASI,,Rabi       ,Linseed,13,4.5
+Jammu and Kashmir ,REASI,2013,Rabi       ,Other  Rabi pulses,12,6.6
+Jammu and Kashmir ,REASI,2013,Rabi       ,Peas & beans (Pulses),,0.6
+Jammu and Kashmir ,REASI,2013,Rabi       ,Rapeseed &Mustard,897,243.9
+Jammu and Kashmir ,REASI,2013,Rabi       ,Wheat,14290,17276
+Jammu and Kashmir ,REASI,2014,Kharif     ,Bajra,415,253
+Jammu and Kashmir ,REASI,2014,Kharif     ,Dry ginger,4,4.7
+Jammu and Kashmir ,REASI,2014,Kharif     ,Maize,21750,17437
+Jammu and Kashmir ,REASI,2014,Kharif     ,Rice,4454,2851
+Jammu and Kashmir ,REASI,2014,Kharif     ,Sesamum,2,1
+Jammu and Kashmir ,REASI,2014,Kharif     ,Turmeric,,3.3
+Jammu and Kashmir ,REASI,2014,Kharif     ,Urad,185,94.1
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Bajra,5521,3307.8
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Barley,,142.6
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Cotton(lint),5,2.5
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Groundnut,2,1
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Maize,3219,5010
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Moong(Green Gram),25,12.5
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Other Kharif pulses,,0.5
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,other oilseeds,47,20.4
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Potato,6,33.4
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Rice,11236,20800
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Sannhamp,53,26.5
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Sesamum,2022,905.8
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Sugarcane,28,168
+Jammu and Kashmir ,SAMBA,2007,Kharif     ,Urad,2942,1300.3
+Jammu and Kashmir ,SAMBA,2007,Rabi       ,Barley,172,85.6
+Jammu and Kashmir ,SAMBA,2007,Rabi       ,Masoor,7,3.8
+Jammu and Kashmir ,SAMBA,2007,Rabi       ,other oilseeds,6,3.3
+Jharkhand,EAST SINGHBUM,2006,Autumn     ,Ragi,5.85,5
+Jharkhand,EAST SINGHBUM,2006,Autumn     ,Rice,2449.49,1986
+Jharkhand,EAST SINGHBUM,2006,Rabi       ,Arhar/Tur,146.18,203
+Jharkhand,EAST SINGHBUM,2006,Rabi       ,Gram,62.81,46
+Jharkhand,EAST SINGHBUM,2006,Rabi       ,Onion,18.36,105
+Jharkhand,EAST SINGHBUM,2006,Rabi       ,Potato,97.13,788
+Jharkhand,EAST SINGHBUM,2006,Rabi       ,Rapeseed &Mustard,42.55,28
+Jharkhand,EAST SINGHBUM,2006,Rabi       ,Wheat,802.33,1054
+Jharkhand,EAST SINGHBUM,2006,Winter     ,Potato,10.12,77
+Jharkhand,EAST SINGHBUM,2006,Winter     ,Rice,86471.07,91140.67
+Jharkhand,EAST SINGHBUM,2007,Autumn     ,Maize,1464.56,1508
+Jharkhand,EAST SINGHBUM,2007,Autumn     ,Rice,2458.62,1866.67
+Jharkhand,EAST SINGHBUM,2007,Rabi       ,Arhar/Tur,117.17,141
+Jharkhand,EAST SINGHBUM,2007,Rabi       ,Gram,63.25,91
+Jharkhand,EAST SINGHBUM,2007,Rabi       ,Onion,14.57,92
+Jharkhand,EAST SINGHBUM,2007,Rabi       ,Potato,120.88,401
+Jharkhand,EAST SINGHBUM,2007,Rabi       ,Rapeseed &Mustard,17.31,19
+Jharkhand,EAST SINGHBUM,2007,Rabi       ,Wheat,324.34,432
+Jharkhand,EAST SINGHBUM,2007,Winter     ,Potato,90.29,689
+Jharkhand,EAST SINGHBUM,2007,Winter     ,Rice,92333.02,96457.33
+Jharkhand,EAST SINGHBUM,2010,Rabi       ,Arhar/Tur,78,103
+Jharkhand,EAST SINGHBUM,2010,Rabi       ,Gram,140,85
+Jharkhand,EAST SINGHBUM,2010,Rabi       ,Onion,3,17
+Jharkhand,EAST SINGHBUM,2010,Rabi       ,Potato,27,47
+Jharkhand,EAST SINGHBUM,2010,Rabi       ,Rapeseed &Mustard,27,18
+Jharkhand,EAST SINGHBUM,2010,Rabi       ,Wheat,227,146
+Jharkhand,GARHWA,2002,Rabi       ,Arhar/Tur,4422.75,6952.56
+Jharkhand,GARHWA,2002,Rabi       ,Rapeseed &Mustard,779.51,507.46
+Jharkhand,GARHWA,2002,Rabi       ,Wheat,6904.01,7194.19
+Jharkhand,GARHWA,2002,Winter     ,Rice,16368.26,15757.17
+Jharkhand,GARHWA,,Autumn     ,Maize,7419.8,16813.27
+Jharkhand,GARHWA,2003,Autumn     ,Rice,12032.5,9642.05
+Jharkhand,GARHWA,,Kharif     ,Arhar/Tur,4326.84,4802.79
+Jharkhand,GARHWA,2003,Rabi       ,Gram,2991.02,2324.02
+Jharkhand,GARHWA,2003,Rabi       ,Masoor,1778.23,4836.79
+Jharkhand,GARHWA,2003,Rabi       ,Rapeseed &Mustard,591.38,366.06
+Jharkhand,GARHWA,2003,Rabi       ,Wheat,6385.51,7943.57
+Jharkhand,GARHWA,2003,Whole Year ,Onion,199.96,1634.67
+Jharkhand,GARHWA,2003,Winter     ,Rice,19919.18,20144.93
+Jharkhand,GARHWA,2004,Autumn     ,Maize,9696.73,11034.87
+Jharkhand,GARHWA,2004,Autumn     ,Rice,6381.61,3075.94
+Jharkhand,GARHWA,2004,Rabi       ,Arhar/Tur,3714.24,6262.21
+Jharkhand,GARHWA,2004,Rabi       ,Barley,2962.57,1801.24
+Jharkhand,GARHWA,2004,Rabi       ,Gram,2856.42,1816.68
+Jharkhand,GARHWA,2004,Rabi       ,Masoor,743.2,447.41
+Jharkhand,GARHWA,2004,Rabi       ,Onion,196.57,1515.75
+Jharkhand,GARHWA,2004,Rabi       ,Rapeseed &Mustard,673.41,551.52
+Jharkhand,GARHWA,2004,Rabi       ,Wheat,6640.24,5020.02
+Jharkhand,GARHWA,2004,Winter     ,Rice,13462.19,5223.33
+Karnataka,BAGALKOT,2003,Kharif     ,Arhar/Tur,,40
+Karnataka,BAGALKOT,2003,Kharif     ,Bajra,15454,8153
+Karnataka,BAGALKOT,2003,Kharif     ,Castor seed,1,1
+Karnataka,BAGALKOT,2003,Kharif     ,Cotton(lint),3226,6374
+Karnataka,BAGALKOT,2003,Kharif     ,Groundnut,2649,1644
+Karnataka,BAGALKOT,2003,Kharif     ,Horse-gram,437,112
+Karnataka,BAGALKOT,2003,Kharif     ,Jowar,4339,9345
+Karnataka,BAGALKOT,2003,Kharif     ,Maize,,52889
+Karnataka,BAGALKOT,2003,Kharif     ,Mesta,150,286
+Karnataka,BAGALKOT,2003,Kharif     ,Moong(Green Gram),969,56
+Karnataka,BAGALKOT,2003,Kharif     ,Niger seed,153,23
+Karnataka,BAGALKOT,,Kharif     ,Other Kharif pulses,133,45
+Karnataka,BAGALKOT,,Kharif     ,Rice,93,210
+Karnataka,BAGALKOT,2003,Kharif     ,Sesamum,536,236
+Karnataka,BAGALKOT,2003,Kharif     ,Small millets,67,39
+Karnataka,BAGALKOT,2003,Kharif     ,Soyabean,272,119
+Karnataka,BAGALKOT,2003,Kharif     ,Sunflower,11643,9155
+Karnataka,BAGALKOT,2003,Rabi       ,Gram,28249,4448
+Karnataka,BAGALKOT,2003,Rabi       ,Groundnut,14870,22871
+Karnataka,BAGALKOT,2003,Rabi       ,Horse-gram,2879,230
+Karnataka,BAGALKOT,2003,Rabi       ,Jowar,134368,10766
+Karnataka,BAGALKOT,2003,Rabi       ,Linseed,3523,264
+Karnataka,BAGALKOT,2003,Rabi       ,Maize,11898,32576
+Karnataka,BAGALKOT,2003,Rabi       ,Other  Rabi pulses,571,76
+Karnataka,BAGALKOT,2003,Rabi       ,Rapeseed &Mustard,65,10
+Karnataka,BAGALKOT,2003,Rabi       ,Safflower,2767,343
+Karnataka,BAGALKOT,2003,Rabi       ,Sunflower,88095,24320
+Karnataka,BAGALKOT,2003,Rabi       ,Wheat,15300,18327
+Karnataka,BAGALKOT,2003,Summer     ,Jowar,37,98
+Karnataka,BAGALKOT,2003,Summer     ,Maize,1515,3310
+Karnataka,BAGALKOT,2003,Summer     ,Rice,2,7
+Karnataka,BAGALKOT,2003,Summer     ,Sunflower,3232,2693
+Karnataka,BAGALKOT,2003,Whole Year ,Arecanut,6,8
+Karnataka,BAGALKOT,2003,Whole Year ,Banana,434,7423
+Karnataka,BAGALKOT,2003,Whole Year ,Brinjal,1037,4377
+Karnataka,BAGALKOT,2003,Whole Year ,Citrus Fruit,374,1368
+Karnataka,BAGALKOT,2003,Whole Year ,Coconut ,600,2867
+Karnataka,BAGALKOT,,Whole Year ,Coriander,26,2
+Karnataka,BAGALKOT,2003,Whole Year ,Dry chillies,476,798
+Karnataka,BAGALKOT,2003,Whole Year ,Garlic,150,124
+Karnataka,BAGALKOT,2003,Whole Year ,Grapes,1829,78515
+Karnataka,BAGALKOT,2003,Whole Year ,Mango,601,2073
+Karnataka,BAGALKOT,2003,Whole Year ,Onion,4269,27894
+Karnataka,BAGALKOT,2003,Whole Year ,Other Fresh Fruits,385,800
+Karnataka,BAGALKOT,2003,Whole Year ,Pome Fruit,61,70
